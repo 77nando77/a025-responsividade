@@ -72,7 +72,7 @@ main > * {
     main{
       
       grid-template-columns: repeat(2, 50%);
-      grid-template-rows: 1fr 12.5rem;
+      grid-template-rows: 4fr 1fr;
     }
     #item-1{
       grid-column: 1/3;
